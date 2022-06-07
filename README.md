@@ -1,7 +1,7 @@
 ### Hi there! 👋
-My name is Akash Kumar and I am currently pursuing my Master's in Computer Science as a graduate student at West Chester University.
+My name is Akash Kumar and I am currently pursuing my PhD in Computer Science and Engineering at Penn State University.
 I mostly code in Python and Java, but I've also dabbled in other programming languages like HTML, CSS, JavaScript, C/C++, R, and Haskell.
-Please take a look at my repositories and if you see something you like, feel free to fork it! 🍴  
+Please take a look at my repositories and if you see something you like, feel free to star or fork it! 🍴  
 Lastly, be sure to check out my [LinkedIn profile](https://www.linkedin.com/in/akash-kumar-universe/) as well.
 
 <!--
