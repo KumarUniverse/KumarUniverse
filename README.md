@@ -14,7 +14,7 @@ Please take a look at my repositories and if you see something you like, feel fr
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarUniverse)](https://github.com/KumarUniverse/github-readme-stats)
 
 ## Contact Me 📫
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([githubprofile](https://github.com/KumarUniverse))
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-universe/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akash.kumar.nth@gmail.com)  
 
